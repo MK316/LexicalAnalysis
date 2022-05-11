@@ -3,4 +3,4 @@
 
 This can be cloned to work on Colab using the following code:
 
-# !git clone https://github.com/youraccountname/repositoryname.git
+!git clone https://github.com/youraccountname/repositoryname.git
